@@ -1,0 +1,37 @@
+/*General*/
+Body {
+  font-family: "Open Sans", "Lora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "GRAD" 0;
+  background-color: #bfcec2;
+  color: black;
+  text-align: center;
+}
+
+/*classes*/
+.Self
+{
+  border-radius: 10%;
+  width: 13%;
+  position: absolute;
+  left: 80%;
+  bottom: 48%;
+}
+
+.Jumbotron
+{
+  margin: 1%;
+  padding: 1%;
+  text-align: center;
+}
+
+/*ID*/
+#activeButton
+{
+  background-color:#bbcde2;
+  color: black;
+}

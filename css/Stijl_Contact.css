@@ -1,0 +1,13 @@
+/*General*/
+Body {
+  font-family: "Roboto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "GRAD" 0;
+  background-color: #eac5d8;
+  color: black;
+  text-align: center;
+}
